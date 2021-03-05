@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextCollection>
+    <Text>
+        <textDisp>Something asdf</textDisp>
+    </Text>
+    <Text>
+            <textDisp>Something else asdf</textDisp>
+        </Text>
+</TextCollection>

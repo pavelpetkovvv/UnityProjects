@@ -1,0 +1,39 @@
+newmtl ProBuilderDefault
+map_Kd GridBox_Default.png
+Kd 1 1 1
+d 1
+
+newmtl StoneWall
+map_Kd wall-stones-stone-wall-yellow-stone-grey-stone-texture-wall-stone-ancient-wall-background.jpg
+Kd 1 1 1
+d 1
+
+newmtl Wood
+map_Kd abstract-wooden-seamless-texture-background_23-2148283204.jpg
+Kd 1 1 1
+d 1
+
+newmtl WhiteWall
+map_Kd Seamless_White_Wall_ Paint_Stucco_Plaster_Texturise.club.jpg
+Kd 1 1 1
+d 1
+
+newmtl WhiteWall2
+map_Kd Seamless wall white paint stucco plaster texture 01.jpg
+Kd 1 1 1
+d 1
+
+newmtl Glass
+Kd 0.4768601 0.6748387 0.8867924
+d 0
+
+newmtl Rooftop1
+map_Kd roof_texture___1_by_agf81_d4cp6js-pre.jpg
+Kd 1 1 1
+d 1
+
+newmtl WoodFloor1
+map_Kd 59f5c227f5340517b2cb0c1e056f3f51.jpg
+Kd 1 1 1
+d 1
+
